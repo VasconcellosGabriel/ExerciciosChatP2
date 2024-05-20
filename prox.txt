@@ -1,0 +1,8 @@
+//NIVEL MÉDIO:
+//Crie uma struct chamada Aluno que contenha os campos nome, nota1, nota2 e media. Escreva um programa que leia os dados de 3 alunos, calcule a média de cada aluno e imprima o nome e a média daqueles que têm média maior ou igual a 7.0.
+//Defina um enum chamado DiaSemana com os dias da semana. Crie um programa que peça ao usuário para entrar com um número de 1 a 7 e, usando uma função loop, imprima o dia correspondente (por exemplo, 1 para Domingo, 2 para Segunda, etc.).
+
+//NIVEL DIFICIL:
+//Crie um programa que gerencie uma lista de contatos. Cada contato deve ser uma struct contendo nome, telefone e email. Utilize ponteiros para criar uma lista dinâmica de contatos e funções para adicionar, remover e listar todos os contatos.
+//Crie uma biblioteca chamada matematica.h que contenha funções para calcular a soma, subtração, multiplicação e divisão de dois números. Utilize esta biblioteca em um programa que leia dois vetores de 5 elementos cada e, usando as funções da biblioteca, calcule a soma, subtração, multiplicação e divisão elemento por elemento entre os dois vetores, armazenando os resultados em novos vetores.
+//Defina um enum chamado Operacao com os valores SOMA, SUBTRACAO, MULTIPLICACAO e DIVISAO. Crie macros para cada uma dessas operações. Escreva um programa que leia dois números do usuário e um valor do enum Operacao, e utilize a macro correspondente para realizar a operação e imprimir o resultado.
